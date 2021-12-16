@@ -1,0 +1,42 @@
+.poza{
+    width:100%;
+}
+div.titlu{
+   margin:auto;
+}
+div.cartonas{
+    width: 18rem;
+    
+}
+div.cnt{
+  margin:auto;    
+    
+}
+img.poze2{
+   width:70%; 
+    
+}
+div.footer_card:hover{
+color: white;
+background-color: #212529;
+}
+button.buton_culoare{
+	color:white;
+	border-radius:20px;
+	background-color:black;
+}
+
+button.buton_culoare:hover{
+	color:white;
+	border-radius:20px;
+	font-weight:580;
+	
+}
+
+.text_carousel{
+	background-color: rgba(0, 0, 0, 0.8)
+}
+
+#caru1 {
+    margin-top:106px;
+}
